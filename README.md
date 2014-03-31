@@ -15,4 +15,4 @@ On Linux, you can install Pygame from the terminal using the command:
 
 or replace apt-get install with the revelant command.
 
-Screenshot can be found at https://www.flickr.com/photos/ritk-mishra/13537722625/
+![moving_lines.py](https://farm4.staticflickr.com/3772/13537722625_e1dd88dd70_b.jpg)
